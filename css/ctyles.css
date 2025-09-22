@@ -192,8 +192,6 @@ a {
 /* Hero Section */
 .hero {
   position: relative;
-  background: var(--color-background);
-  border-radius: var(--radius-xl);
   margin: var(--spacing-2xl);
   overflow: hidden;
   min-height: 570px;
